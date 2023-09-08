@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,p as c,a as _,b as a}from"./index-4720d186.js";const d={},i=e=>(c("data-v-9103d676"),e=e(),_(),e),n={class:"intro"},p=i(()=>a("div",{class:"text"},"This is a demo application.",-1)),r=[p];function l(e,u){return s(),t("div",n,r)}const f=o(d,[["render",l],["__scopeId","data-v-9103d676"]]);export{f as default};
